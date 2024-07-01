@@ -1,4 +1,4 @@
-#Navigating Speedy Success in Bike-Sharing
+#Navigating Speedy Success in Bike Sharing
 
 ![image](https://github.com/SaloniPandya/Navigating-Speedy-Success-in-Bike-Sharing/assets/112477782/bca44e5c-93c6-4bf3-9e22-ad2cdcb139d4)
 
